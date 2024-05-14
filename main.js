@@ -12,7 +12,7 @@ for (let i = 0; i < botoes.length; i++) { //laço de repetição que passará po
 }
 const contadores = document.querySelectorAll(".contador"); //constante contador
 const tempo1 = new Date("2024-11-17T00:00:00"); //estipula uma data para a contagem regressiva BOTAO1
-const tempo2 = new Date("2024-11-12T00:00:00"); //estipula uma data para a contagem regressiva BOTAO2
+const tempo2 = new Date("2024-11-03T00:00:00"); //estipula uma data para a contagem regressiva BOTAO2
 const tempo3 = new Date("2024-10-11T00:00:00"); //estipula uma data para a contagem regressiva BOTAO3
 const tempo4 = new Date("2024-04-24T00:00:00"); //estipula uma data para a contagem regressiva BOTAO4
 const tempos = [tempo1, tempo2, tempo3, tempo4];
